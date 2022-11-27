@@ -7,10 +7,12 @@ Horiseon main home page has been refactor to improve syntax and accessibility in
 * [Screenshot 2](./assets/images/screenshot-2.png)
 * [Screenshot 3](./assets/images/screenshot-3.png)
 
+The link to the live application can be found below.
+
+* [Horiseon](https://kelseyra.github.io/horiseon-refactor-accessibility/)
+
 ## Installation 
 n/a
-
-## Usage
 
 ## Credits
 n/a
